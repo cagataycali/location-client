@@ -1,13 +1,13 @@
-### Location Service Client :cloud:
+# Location Service Client :cloud:
 
-### Install
+# Install
 
 ```bash
-# Even you can use npm: npm i -S location-client
+# Even you can use npm: npm i -S location-client
 yarn add location-client
 ```
 
-### Usage
+# Usage
 
 **Require client**
 
@@ -17,7 +17,7 @@ const Service = require('location-client');
 
 **Create new service instance**
 
-*You can get credentials [click](https://location-service.cagatay.me)!*
+_You can get credentials [click](https://location-service.cagatay.me)!_
 
 ```javascript
 let service = new Service({name:'exceptional-lucky', token: 't6UoUezpcUaaXTx5AAAD'});
@@ -92,6 +92,6 @@ service.deleteUser({}, msg => {
 */
 ```
 
-### License
+# License
 
 [Çağatay Çalı](https://cagatay.me)
