@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/cagataycali/location-client#readme",
   "dependencies": {
-    "socket.io-client": "^2.0.3"
+    "socket.io-client": "^4.0.0"
   }
 }
